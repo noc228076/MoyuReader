@@ -1,0 +1,13 @@
+build/
+dist/
+__pycache__/
+*.spec
+venv/
+.env
+*.pyc
+.moyu_reader_config.json
+*.txt
+patch*.py
+fix*.py
+add*.py
+script*.py
