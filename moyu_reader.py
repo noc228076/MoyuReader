@@ -188,7 +188,7 @@ class MoyuReader:
   • 纯离线自动保存进度，并且每本书进度独立！
 
 🔗 源码与更新：
-  GitHub: https://github.com/YourUsername/MoyuReader
+  GitHub: https://github.com/noc228076/MoyuReader
 （点击确定后，如果您想访问 GitHub 可以手动前往）"""
         
         # 创建一个自定义弹窗以支持点击链接（如果需要真正的超链接，这里用简单多按键实现，为了保持轻量直接展示URL即可）
